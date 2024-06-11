@@ -1,0 +1,16 @@
+public class Platypus : Mammal
+{
+    public Platypus(string name) : base(name)
+    {
+    }
+
+    public override void Move()
+    {
+        Console.WriteLine("The platypus swims.");
+    }
+
+    public override void Eat()
+    {
+        Console.WriteLine("The platypus eats small animals.");
+    }
+}

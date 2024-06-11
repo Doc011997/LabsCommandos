@@ -1,0 +1,15 @@
+/Users/doc-natha/Desktop/M1/Comnandos/LabsM1/obj/Debug/net7.0/LabsM1.csproj.AssemblyReference.cache
+/Users/doc-natha/Desktop/M1/Comnandos/LabsM1/obj/Debug/net7.0/LabsM1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doc-natha/Desktop/M1/Comnandos/LabsM1/obj/Debug/net7.0/LabsM1.AssemblyInfoInputs.cache
+/Users/doc-natha/Desktop/M1/Comnandos/LabsM1/obj/Debug/net7.0/LabsM1.AssemblyInfo.cs
+/Users/doc-natha/Desktop/M1/Comnandos/LabsM1/obj/Debug/net7.0/LabsM1.csproj.CoreCompileInputs.cache
+/Users/doc-natha/Desktop/M1/Comnandos/LabsM1/bin/Debug/net7.0/LabsM1
+/Users/doc-natha/Desktop/M1/Comnandos/LabsM1/bin/Debug/net7.0/LabsM1.deps.json
+/Users/doc-natha/Desktop/M1/Comnandos/LabsM1/bin/Debug/net7.0/LabsM1.runtimeconfig.json
+/Users/doc-natha/Desktop/M1/Comnandos/LabsM1/bin/Debug/net7.0/LabsM1.dll
+/Users/doc-natha/Desktop/M1/Comnandos/LabsM1/bin/Debug/net7.0/LabsM1.pdb
+/Users/doc-natha/Desktop/M1/Comnandos/LabsM1/obj/Debug/net7.0/LabsM1.dll
+/Users/doc-natha/Desktop/M1/Comnandos/LabsM1/obj/Debug/net7.0/refint/LabsM1.dll
+/Users/doc-natha/Desktop/M1/Comnandos/LabsM1/obj/Debug/net7.0/LabsM1.pdb
+/Users/doc-natha/Desktop/M1/Comnandos/LabsM1/obj/Debug/net7.0/LabsM1.genruntimeconfig.cache
+/Users/doc-natha/Desktop/M1/Comnandos/LabsM1/obj/Debug/net7.0/ref/LabsM1.dll
