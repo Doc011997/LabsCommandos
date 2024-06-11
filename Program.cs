@@ -51,6 +51,8 @@ class Program
         }
         */
 
+        /*
+
         // Create system resources
         SystemResource printer = new SystemResource("Printer");
         SystemResource ram = new SystemResource("RAM");
@@ -73,7 +75,42 @@ class Program
         process2.Execute();
     }
 }
+*/
 
+        // Create instances of different animals
+        Lion lion = new Lion("Leo");
+        Cow cow = new Cow("Bessie");
+        Snake snake = new Snake("Slither");
+        Lizard lizard = new Lizard("Lizzy");
+        Platypus platypus = new Platypus("Perry");
+
+        // Demonstrate animal actions
+        Console.WriteLine("Demonstrating actions for different animals:");
+
+        lion.Move();
+        lion.Eat();
+        lion.Nurse();
+
+        cow.Move();
+        cow.Eat();
+        cow.Nurse();
+
+        snake.Move();
+        snake.Eat();
+        snake.LayEggs();
+
+        lizard.Move();
+        lizard.Eat();
+        lizard.LayEggs();
+
+        platypus.Move();
+        platypus.Eat();
+        platypus.Nurse();
+
+        // Keep the console open
+        Console.ReadLine();
+    }
+}
 
 
 
